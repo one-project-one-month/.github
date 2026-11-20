@@ -124,7 +124,6 @@ Unlinked authors are omitted; shared commits may count in multiple repositories.
   <a href="https://github.com/myatphonethant-dev"><img src="https://github.com/myatphonethant-dev.png?size=64" width="48" height="48" alt="myatphonethant-dev" title="myatphonethant-dev" /></a>
   <a href="https://github.com/Paing0"><img src="https://github.com/Paing0.png?size=64" width="48" height="48" alt="Paing0" title="Paing0" /></a>
   <a href="https://github.com/Ahkar2000"><img src="https://github.com/Ahkar2000.png?size=64" width="48" height="48" alt="Ahkar2000" title="Ahkar2000" /></a>
-  <a href="https://github.com/KaungSettThu1873"><img src="https://github.com/KaungSettThu1873.png?size=64" width="48" height="48" alt="KaungSettThu1873" title="KaungSettThu1873" /></a>
   <a href="https://github.com/Ye-Thihaa"><img src="https://github.com/Ye-Thihaa.png?size=64" width="48" height="48" alt="Ye-Thihaa" title="Ye-Thihaa" /></a>
   <a href="https://github.com/hanlinthedev"><img src="https://github.com/hanlinthedev.png?size=64" width="48" height="48" alt="hanlinthedev" title="hanlinthedev" /></a>
   <a href="https://github.com/yamone178"><img src="https://github.com/yamone178.png?size=64" width="48" height="48" alt="yamone178" title="yamone178" /></a>
